@@ -1,0 +1,44 @@
+body {
+    background: linear-gradient(90deg, azure, gray);
+}
+
+.inputs {
+    text-align: center;
+}
+
+.input {
+    text-align: center;
+    font-size: 50px;
+    width: 100px;
+    height: 50px;
+}
+
+h {
+    font-family: monospace;
+    font-size: 50px;
+    color: red;
+}
+
+label {
+    font-family: monospace;
+    font-size: 30px;
+    color: orange;
+}
+
+.root_p {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: green;
+}
+
+.btn_solve {
+    font-size: 30px;
+    color: purple;
+}
+
+.coefficient {
+    font-family: monospace;
+    font-size: 50px;
+    color: blue;
+}
